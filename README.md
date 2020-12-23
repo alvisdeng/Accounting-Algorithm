@@ -1,2 +1,2 @@
 # Accounting-Algorithm
-I'm an accountant. And I'm slashing LeetCode!!!
+I'm an accountant. And I'm smashing LeetCode!!!
